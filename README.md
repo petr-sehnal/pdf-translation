@@ -11,4 +11,5 @@ pry na to uz nejaky tool maji, akorat se tam plati dost licence per user a pomoc
 
 
 - [free plugin](https://sider.ai/lp/pdf-translator?source=gg&p1=pdftranslator-2&p2=search&gad_source=1&gclid=Cj0KCQjw8MG1BhCoARIsAHxSiQnUQ9bnzG9UwdmlIBEOhWruyibYj4rI9mnRRECAumA7Y1jD8QIolg4aAh3iEALw_wcB)
-- 
+- https://github.com/coolwanglu/pdf2htmlEX/wiki/Quick-Start
+
