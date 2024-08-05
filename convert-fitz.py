@@ -108,10 +108,12 @@ def extract_text(pdf_path):
 
 #pdf_path = "path_to_your_pdf.pdf"
 #pdf_path = "data/single.pdf"
-pdf_path = "data/columns.pdf"
-#output_pdf_path = "out/columns.pdf"
+#output_pdf_path = "out/pictures.pdf"
+pdf_path = "data/pictures.pdf"
 
+draw_bounding_boxes(pdf_path, extract_text_with_bounding_boxes(pdf_path), "out/pictures.boundingbox.pdf")
 
+exit(0)
 
 for filename in os.listdir("data"):
     pdf_path = "data/" + filename
@@ -119,11 +121,11 @@ for filename in os.listdir("data"):
     pages, xhtml = extract_text(pdf_path)
 
     # write xhtml to file
-    with open("out/"+filename+".html", "w", encoding="utf8") as file:
+    with open("out/"+filename+".fitz.html", "w", encoding="utf8") as file:
       for page in pages:
             file.write(xhtml)
 
-    with open("out/"+filename+".txt", "w", encoding="utf8") as file:
+    with open("out/"+filename+".fitz.txt", "w", encoding="utf8") as file:
         for page in pages:
             file.write(page)
 
