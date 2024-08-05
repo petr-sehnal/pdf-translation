@@ -1,0 +1,150 @@
+Formulář pro objednání přepravy
+Vyplněný formulář nám zašlete na e-mail objednavky@dpd.cz.
+Příplatek za zpracování formuláře pro objednání přepravy je 25 Kč bez DPH. 
+Bez příplatku je možné objednat přepravu v aplikacích DPD zde.
+Potřebujeme od vás ještě následující údaje
+Vyberte si z našich přepravních služeb
+Počet zásilek (ks): 
+  Šířka (cm): 
+  Délka (cm): 
+Výška (cm): 
+  Hmotnost (kg): 
+Dobírková částka2: 
+  Platba: 
+ Hotově 
+ Kartou
+Číslo účtu pro  
+proplacení dobírkové částky: 
+ - 
+ / 
+Variabilní symbol: 
+Zásilka
+Zákaznické číslo 
+ Obchodní firma/Název klienta: 
+IČ: 
+  DIČ: 
+Ulice, č. p.: 
+  PSČ: 
+ Město: 
+ Stát: 
+Jméno a příjmení kontaktní osoby1: 
+ Telefon: 
+Fakturační údaje (příkazce)
+Datum vyzvednutí: 
+Na adrese vyzvednutí mám štítky DPD: 
+ Ano 
+ Ne
+Adresa vyzvednutí (pokud se liší od fakturační)
+Jméno a příjmení/Název firmy: 
+Ulice, č. p.: 
+  PSČ: 
+ Město: 
+ Stát: 
+Jméno a příjmení kontaktní osoby1: 
+ Telefon: 
+Vyzvednutí zásilky (svoz)
+Jméno a příjmení/Název firmy: 
+Ulice, č. p.: 
+  PSČ: 
+ Město: 
+ Stát: 
+Jméno a příjmení kontaktní osoby1: 
+E-mail4: 
+ Telefon: 
+  Referenční číslo:
+Adresa příjemce
+Štítek „Pozor křehké!“(ks): 
+  Štítek „Neklopit!“(ks): 
+Objednejte si štítky pro zvláštní manipulaci
+Vnitrostátní přeprava
+Doplňkové služby:
+ Dobírka2
+ Připojištění3
+ Výměnná zásilka
+ Sběrný balík
+ Doručení  
+třetí straně
+DPD CLASSIC
+Doplňkové služby:
+ Dobírka2+5
+ Připojištění3
+Výdejní místo 
+Přehled všech výdejních míst najdete na pickup.dpd.cz
+ Pickup
+Doplňkové služby:
+ Dobírka2
+ Připojištění3
+DPD 10:005 
+Doplňkové služby:
+ Dobírka2
+ Připojištění3
+DPD 12:005
+Doplňkové služby:
+ Dobírka2
+ Připojištění3
+DPD 18:005
+Doplňkové služby:
+ Dobírka2+5
+ Připojištění3
+Sběrný balík
+ Doručení  
+třetí straně
+DPD Private
+Mezinárodní přeprava7
+Doplňkové služby:
+ Dobírka2+5
+ Připojištění3
+ Import
+ DPDBox
+ DPDPack
+Celní odbavení
+DPD CLASSIC
+Doplňkové služby:
+ Dobírka2+5
+ Připojištění3
+Celní odbavení
+DPD Private
+Doplňkové služby:
+ Dobírka2+5
+ Připojištění3
+Guarantee DPDBox
+Guarantee DPDPack
+Celní odbavení
+DPD GUARANTEE5
+Ve formuláři vyplňte správné údaje, aby přeprava 
+proběhla bez problémů.
+1  povinný údaj u zásilek ze/do zahraničí a u služeb 
+Expres (DPD 10:00, DPD 12:00, DPD 18:00 
+a DPD GUARANTEE)
+2  podmínkou pro objednání dobírky je odeslání 
+dobírkových dat nebo dodání Dobírkového 
+seznamu, více informací na 225 373 373
+3  při objednání připojištění je nutné vyplnit Přihlášku 
+k připojištění pro vnitrostátní nebo mezinárodní 
+přepravu, více informací na 225 373 373
+4  na tento e-mail nebo telefon budeme posílat 
+informace o doručení a zásilce, týká se služeb  DPD 
+Private a Pickup
+5  takto označené služby jsou omezeny na vybraná 
+města, respektive země, více informací na 
+www.dpd.cz nebo 225 373 373
+6  Pokud nechcete na přepravním štítku zobrazit 
+skutečnou adresu svozu, zaškrtněte tuto možnost, 
+na štítku bude vytištěna adresa fakturační.
+7  u zásilek mimo EU je potřeba dodat Proforma 
+fakturu.
+Tento formulář se přijetím Zasílatelem stává 
+Zasílatelskou smlouvou. Zasílatelské služby jsou 
+poskytovány na základě Zasílatelské smlouvy, 
+Všeobecných obchodních podmínek DPD (dále jen 
+„Podmínky“) a ceníků DPD, jejichž aktuální znění je 
+zpřístupněno klientovi na internetových stránkách 
+www.dpd.cz. Klient odesláním vyplněného 
+objednávkového formuláře Zasílateli stvrzuje, že 
+se seznámil s obsahem aktuálních Podmínek a že 
+souhlasí s tím, aby se právní vztahy z přepravy zboží 
+mezi ním a DPD řídily těmito Podmínkami.
+ Chci tuto adresu uvádět na přepravním štítku jako adresu svozovou.6
+Platný od 1. 8. 2018
+Datum revize: 4. 7. 2023
+ 

@@ -1,0 +1,855 @@
+DPD Shipping 
+Základní manuál pro vytvoření přepravních štítků a objednání svozu zásilek 
+DPD Shipping 
+1 
+Obsah
+DPD Shipping 
+2
+Základní manuál pro vytvoření přepravních štítků a objednání svozu zásilek 
+2 
+Všeobecné informace 
+2
+1      Moje přístupové údaje 
+3 
+2       Hlavní stránka aplikace 
+7
+Sekce Nastavení uživatele a aplikace 
+8
+Sekce Nastavení 
+9
+3  
+  Nová zásilka a vytvoření štítků 
+10
+4  
+ Sekce hlavní a doplňkové služby 
+14
+ Proč zvolit tuto službu 
+16 
+4.1 
+ Doplňkové služby 
+17
+5      Přehled zásilek 
+21
+5.1 
+ Jednostránkové vytvoření objednávky 
+23
+6      Objednávky svozu 
+28
+7      Adresář 
+30
+8    
+ Maskovací adresa 
+36
+Na koho se obrátit... 
+38
+DPD Shipping 
+2 
+•
+Mozilla Firefox
+•
+Google Chrome
+•
+Microsoft Edge
+•
+Opera
+•
+Safari
+2. PDF Reader (Adobe Reader, PDF Creator, Foxit Reader, atd.)
+Doporučená konfigurace Vašeho osobního počítače: 
+•
+MS Windows 10 a vyšší
+•
+4 GB operační paměti RAM
+•
+2 jádrový procesor o frekvenci 2 GH
+•
+Volné místo na disku 16 GB
+DPD Shipping 
+Základní manuál pro vytvoření 
+přepravních štítků a objednání svozu 
+zásilek 
+Všeobecné informace 
+Tento dokument je určen pro registrované zákazníky společnosti DPD, kteří mají přidělené zákaznické číslo. 
+Cílem tohoto dokumentu je vás seznámit s tím, jak vytvořit přepravní štítky, odeslat data k zásilkám a objednat 
+vyzvednutí zásilek určených k přepravě.  
+Tento dokument obsahuje tipy a snímky obrazovek z webové aplikace DPD Shipping (dále jen aplikace). 
+Tuto aplikaci si můžete přímo spustit pomocí odkazu https://shipping.dpdgroup.com/login  
+Ke správnému fungování aplikace je nutné splnit následující požadavky:  
+1. Připojení k internetu
+Podporované webové prohlížeče: 
+DPD Shipping 
+3 
+V případě, že máte zájem o zaslání přístupových údajů do aplikace (uživatelské jméno a heslo), můžete o ně 
+požádat několika způsoby.  
+•
+Vašeho obchodního zástupce
+•
+Přes zákaznickou linku: 225 373 373
+•
+E-mailem: mojedpd@dpd.cz
+Pro vytvoření přístupů budete potřebovat znát tyto údaje: 
+•
+Zákaznické číslo
+•
+Kontaktní jméno
+•
+Kontaktní telefon (bude zobrazen na štítku)
+•
+E-mail (na tento e-mail obdržíte přístupové údaje)
+•
+Svozové adresy (odkud budete chtít Vaše zásilky svážet)
+V případě, že budete využívat službu Dobírka, tak je nutné vyplnit bankovní účty pomocí formuláře, který Vám 
+poskytne obchodní zástupce. 
+Důležitá informace: pokud si zobrazujete nebo stahujete potvrzení o doručení vašich zásilek nebo máte zájem 
+o stažení faktur za přepravu čí výpočet ceny za balík, tyto informace nejsou zobrazeny přímo v aplikaci
+DPD Shipping, ale je možné je získat v nové zákaznické webové aplikaci DPD Easy. 
+Aktivaci aplikace vám zařídí váš obchodní zástupce. 
+Jaké výhody díky DPD Easy získáte? 
+•
+Vše přehledně na jednom místě v jednoduché samoobsluze. Bez nutnosti využívat několik dalších zdrojů
+informací.
+•
+Kompletní přehled objednávek svozů, vč. těch stálých.
+•
+Užitečnou kalkulačku ceny přepravy navázanou na Váš ceník.
+•
+Faktury za poslední období na jednom místě. Zobrazení platebních údajů/QR kódu k platbě.
+•
+Přehled ceníků vč. možnosti stažení standardního ceníku ve formátu PDF.
+•
+Stažení potvrzení o doručení (POD) podle čísla balíku.
+•
+Zobrazení vašeho kompletního profilu vedeného u DPD vč. kontaktů na obchodníka a možnosti odeslání
+změnového požadavku.
+•
+Zobrazení sledování zásilek (tracking).
+•
+Stažení formulářů potřebných k proclení.
+•
+Nejčastější otázky a odpovědi k přepravě, dobírkám, podpoře atp.
+1      Moje přístupové údaje 
+DPD Shipping 
+4 
+Zpátky k přístupovým údajům… 
+Jakmile budou přístupové údaje vygenerovány, obdržíte automaticky vygenerovaný e-mail. 
+Pozor, odkaz na aktivační link v e-mailu je platný pouze 6 hodin.
+E-mail bude obsahovat aktivační link. Kliknutím na aktivační link aktivujete přístupy do aplikace.
+Po přesměrování se dostanete na hlavní přihlašovací stránku aplikace. 
+Bude potřeba si nastavit nové heslo. Ohledně nastavení hesla prosím postupujte dle instrukcí na obrazovce 
+níže. 
+Sekce nastavení nového hesla pro nové zákazniky nebo reset hesla. Úvodní obrazovka je pouze 
+v angličtině. 
+Prosíme, nepřekládejte stránku pomocí Google překladače. 
+Zadejte nové 
+heslo do prvního 
+řádku a v dalším 
+řádku opakujte. 
+DPD Shipping 
+5 
+Popis polí a tlačítek. 
+•
+Username or email: Zadejte uživatelské jméno nebo e-mail, který jste obdrželi v e-mailu. Uživatelské 
+jméno již nelze měnit. Doporučujeme používat e-mail.
+•
+Password: Zadejte heslo, které jste si vytvořili na začátku.
+•
+Remember me: Aplikace si zapamatuje přihlášení. Tato funkce může fungovat jinak v závislosti na 
+zvoleném webovém prohlížeči.
+•
+Forgot password: Zde si můžete resetovat heslo.
+•
+Log in: Přihlášení do aplikace.
+Hlavní přihlašovací stránka je pouze v anglickém jazyce. Prosím nepřekládejte stránku pomocí Googlu. 
+Jazyk aplikace lze změnit až po přihlášení do aplikace. 
+Přihlášení 
+do aplikace 
+Upozornění 
+DPD Shipping 
+6 
+Pokud máte nastaveno více poboček pod vaším profilem, po stisknutí tlačítka „Log in“ se vám zobrazí 
+stránka, kde je možné si vybrat pobočku, pod kterou se chcete přihlásit. 
+Pobočku vyberete kliknutím na název požadované pobočky. 
+Budete automaticky přihlášeni do aplikace na hlavní stránku. 
+Výběr jazyka aplikace 
+Pokud aplikace nebude v požadovaném jazyce, nastavení změníte v pravém horním rohu, kliknutím na 
+ikonu s profilovou fotografií.
+Upozornění:  Používejte nastavení jazyka ze sekce “Změnit jazyk” na obrázku. Nepoužívejte 
+automatický překlad stránek, které vám nabízí webový prohlížeč. 
+Výběr jazyka 
+Výběr zákazníka/pobočky 
+7 
+2  
+ Hlavní stránka aplikace 
+Pokud se přihlásíte do aplikace poprvé, hlavní stránka bude prázdná. V případě, že by v aplikaci byly již 
+vytvořeny nějaké zásilky, uvidíte automaticky přehled zásilek.
+Hlavní panel se nachází na levé straně, kde jsou jednotlivé ikonky se základním popisem. 
+V pravém horním rohu je název zákazníka. Pokud u společnosti DPD máte více poboček, je možné mezi 
+nimi překlikávat. Tato možnost je na vyžádání přes technickou podporu. 
+Sekce hlavní panel/ Objednání přepravy
+•
+Vytvořit objednávku: zde se vytváří objednávky a štítky. Můžete si zvolit z jednostránkového zadání, to
+znamená vytvoření objednávky na jedné stránce, nebo detailního zadání (v několika krocích), kde je více
+možností. Dále zde najdete možnost pro vytvoření sběrného balíku a importu za zahraničí.
+•
+Import souboru: slouží k hromadnému nahrávání zásilek. Podmínkou je mít vytvořenou importní šablonu.
+Šablonu nastaví technická podpora na základě vašeho souboru, který je nutné zaslat ke kontrole.
+•
+Správa šablony: zde se nastavuje šablona pro hromadný import zásilek a nebo nahrání adresáře. Nastavit
+šablonu vám pomůže technická podpora.
+•
+Objednávky: Zde najdete váš přehled standardních objednávek z vaší registrované svozové adresy a
+přehled objednávek sběrných služeb ze zahraničí a z tuzemska.
+•
+Objednávky svozu: zde můžete vytvořit svoz kurýrem bez štítků a najdete zde také historii objednávek
+svozů.
+•
+Adresář: zde je seznam adres vašich příjemců. Adresář se ukládá spolu s vytvořenými zásilkami nebo je
+možné ho nahrát hromadně do aplikace.
+•
+Maskovací adresa: zde si můžete vytvořit adresu, která maskuje odesílatele na štítku.
+Hlavní panel 
+Výběr pobočky 
+a jazyka 
+8 
+Sekce Nastavení uživatele a aplikace 
+V této sekci vidíte pod svým zákaznickým účtem seznam vašich uživatelů. 
+Můžete zde přidat k vašemu účtu dalšího uživatele. 
+Stačí kliknout na odkaz + Přidat uživatele a zadat údaje pro vytvoření dalšího uživatele. 
+Zadejte unikátní e-mail do pole e-mail. Jako uživatelské jméno můžete použít část emailu před @. Dále 
+zadejte jméno uživatele a jeho telefon. Vyberte defaultní jazyk aplikace. 
+V sekci níže přiřaďte uživateli zákazníka ze seznamu. V seznamu bude dostupný pouze zákazník, pod 
+kterým je daný uživatel přihlášený. 
+Zde můžete jen vybrat svozovou adresu ze seznamu, kterou již máte od nás zadanou a druh role. 
+•
+Hlavní role: admin aplikace
+•
+Uživatel: omezené role. Nelze přidávat dalšího uživatele nebo měnit importní šablony
+•
+Základní oprávnění: slouží jen pro vytváření zásilek
+Výběr rolí 
+Zákaznické číslo 
+9 
+Sekce Nastavení 
+Doplňková sekce, kde je možné měnit nastavení aplikace. Tato sekce se neustále vyvíjí na základě požadavků 
+klientů. Do budoucna zde bude možné nastavit více možností pro individuální chování aplikace. 
+Nyní si zde můžete nastavit přímý tisk. Aplikace bude přímo generovat štítky na tiskárnu. K tomu je potřeba si 
+stáhnout doplňkovou aplikaci na tisk štítků níže. 
+Lze zde nastavit, jak se mají exportovat chybné záznamy při hromadném nahrávání zásilek a jak se má import 
+souboru chovat v případě chybných záznamů. Prosím vyberte vaši preferovanou možnost ze seznamu. 
+Nově zde můžete nastavit, jak chcete, aby se exportoval váš seznam vytvořených zásilek za dané období. 
+Seznam je možné pak exportovat ze sekce “Přehled zásilek” a přijde vám automaticky do e-mailu. 
+Poslední možnosti je nastavení režimu vytváření objednávky. Pokud zvolíte “Použít rozšířené zadání 
+objednávky”, při vytváření nové objednávky budete zadávat údaje o zásilce postupně v několika krocích. Každá 
+část objednávky bude pokračovat na další obrazovce. V opačném případě se objednávka bude zadávat na 
+jedné stránce/obrazovce. Jednostránkový režim má výhodu rychlejšího ručního zadání, ale nemusí obsahovat 
+detailní informace v adrese nebo je omezen počet volných polí pro údaje mimo adresu příjemce. 
+ 
+Sekce Nastavení 
+uživatele a 
+aplikace 
+Zde můžete stáhnout 
+aplikaci na přímý tisk. 
+Nastavení 
+Vícestránkové 
+zadání objednávky 
+Přímý tisk na tiskárny. 
+Pouze s doplňkovou 
+aplikací. 
+Formát 
+exportu 
+dat. 
+10 
+3  
+ Nová zásilka a vytvoření štítků 
+V této části si vysvětlíme jak vytvořit novou zásilku, štítky do přepravy a objednávku svozu se štítky. 
+Klikněte na ikonku Vytvořit objednávku na hlavní liště. Zde se zobrazí sekce pro kompletní vytvoření 
+objednávky. 
+V této sekci vytvoříte všechny typy zásilek, které společnost DPD nabízí. Není nutné nic povolovat. 
+Vytvoření nové zásilky se skládá z několika kroků. Na výběr jsou dvě možnosti zadání. 
+Možnosti zadání si nastavujete v sekci „Nastavení“, jak již bylo vysvětleno v předchozí sekci tohoto 
+manuálu. Sekce Vytvoření zásilky se skládá z částí informace o odesílateli a příjemci. 
+Nahoře najdete šedý panel, který ukazuje v jakém kroku se právě nacházíte.  
+Sekce informace o odesílateli. 
+Zde jsou na výběr registrované svozové adresy v rolovacím seznamu, které byly zadány obchodnímu zástupci. 
+Tyto registrované svozové adresy jsou využívané pro standardní objednávky a nelze je ručně měnit. Pokud 
+chcete přidat nebo odebrat registrovanou svozovou adresu, je nutné kontaktovat obchodního zástupce. 
+Pokud kliknete na box Použít jako sběrnou službu vlevo nad svozovou adresou, budete mít možnost využívat 
+služby Sběrný balík, Doručení 3. Straně a Import ze zahraničí. 
+Sběrné služby znamenají svoz z neregistrovaných svozových adres (není to adresa vaší provozovny). 
+•
+Sběrný balík: pokud zadáte v sekci odesílatel ručně svozovou adresu a v sekci “Informace o příjemci”
+zaškrtnete box „Použít svozovou adresu“.
+•
+Doručení 3. straně: pokud zadáte ručně svozovou adresu v sekci odesílatel a ručně přidáte adresu v sekci
+příjemce. Pouze po CZ nebo vybrané země EU.
+•
+Import ze zahraničí: pokud zadáte ručně adresu v zahraničí. Lze pouze ve vybraných zemí v EU.
+Nyní se nacházíme v rozšířeném 
+zadání objednávky 
+Změnit můžete v sekci 
+Nastavení 
+11 
+U sběrných služeb si můžete ukládat vaše adresy do seznamu příjemců, pokud vlevo dole zvolíte možnost 
+“Uložit adresu vyzvednutí”. 
+Pokud je adresa již uložena v seznamu, bude adresa po zadání prvních 3 znaků do pole "Jméno" 
+automaticky nabídnuta v rolovacím seznamu. 
+Pokud adresu uloženou nemáte, ale začnete ji psát do pole “Vyhledat adresu”, tak díky funkci “Google API” 
+vám bude automaticky vyhledána na internetu podle zadaných kritérií. 
+Sekce “Informace o příjemci” 
+Zde se vyplňuje adresa příjemce. Adresář vám můžeme nahrát nebo pokud zvolíte možnost “Uložit adresu 
+příjemce” na pravé straně, adresa se automaticky uloží. 
+Náš tip: můžete využít pole “Vyhledat adresu” i v této části. Pokud do tohoto pole začnete vyplňovat adresu 
+příjemce, kterou nemáte uloženou v databázi, aplikace automaticky dohledá aktuální adresu na internetu. 
+Bližší vysvětlení jednotlivých polí v adrese příjemce. 
+Google 
+vyhledávač 
+adres 
+Zadejte ručně 
+nebo vyberte ze 
+seznamu 
+Volné pole pro 
+doplňující 
+informace 
+k adrese. 
+Sběrný balík 
+12 
+•
+Jméno: Povinné pole. Jméno příjemce. Lze využít jak pro kontaktní osobu, tak název společnosti. Slouží i
+pro vyhledávání již uloženého příjemce. Je zobrazeno na štítku.
+•
+Jméno 2: Nepovinné pole. Slouží jako další jméno nebo název k adrese příjemce. Informace je uložena v
+datech a v aplikaci.
+•
+Název společnosti: Nepovinné pole. Slouží jako další název k adrese příjemce. Primárně můžete toto pole
+využít jako název společnosti. Tato informace se tiskne na štítek.
+•
+Název společnosti 2: Nepovinné pole. Slouží jako další název k adrese příjemce. Primárně můžete toto
+pole využít jako název společnosti. Tato informace se netiskne na štítek.
+Adresa: 
+•
+Vyhledat adresu: Automatické vyhledávání adresy z Googlu. Lze využít, i když nemáte adresu uloženou v
+aplikaci. Aplikace vám sama dohledá aktuální adresu z internetu.
+•
+Země: Seznam zemí, kam společnost DPD doručuje. Vyberte zemi ze seznamu. Defaultně je nastavena
+Česká republika.
+•
+PSČ: Poštovní směrovací číslo bez mezer. Pokud nevíte poštovní směrovací číslo, tak využijte pole
+“Vyhledat adresu”
+•
+Město: Město příjemce. Není potřeba psát kraj nebo čtvrť.
+•
+Ulice: Ulice příjemce s číslem popisným nebo bez. V případě, že adresa příjemce nemá ulici, tak napište
+název obce nebo upřesňující informace o oblasti.
+•
+Adresa 2 a 3: Další doplňující informace k adrese příjemce. Tyto dvě informace se na štítku nezobrazují
+•
+Oddělení, podlaží a číslo dveří: Další nepovinné informace k adrese příjemce. Tyto informace se zatím na
+štítku nezobrazují. Tato služba bude dostupná později jako doručení do oddělení.
+Sekce kontakt. 
+•
+Kontaktní osoba: Doplňující informace k adrese příjemce. Jméno osoby. Je zobrazeno na štítku.
+•
+Telefon příjemce: Telefon příjemce na štítku. Bez mezer.
+•
+E-mail: E-mail příjemce. Všeobecný kontakt. Není zobrazen na štítku.
+•
+Doplňující informace k adrese příjemce. Tato informace je zobrazena na štítku.
+Nápis “Vyčistit” slouží k vymazání všech zadaných informací na stránce. 
+13 
+Kliknutí na tlačítko “Další“ se dostanete na další stránku. Následující sekce slouží k výběru hlavních 
+a doplňkových služeb. 
+Adresa pro vrácení sběrného balíku 
+Povinná pole pro adresu balíku 
+14 
+4  
+ Sekce hlavní a doplňkové služby 
+Tato sekce zobrazuje všechny služby, která společnost DPD nabízí. Všichni zákazníci vidí stejné služby. 
+Pořadí nelze měnit. Technická podpora může nevyužívané služby skrýt. 
+Rozbalovací seznam zobrazuje hlavní služby a nápis “Doplňkové služby”, které rozbalí seznam dostupných 
+doplňkových služeb na základě hlavních služeb. 
+Bližší vysvětlení jednotlivých hlavních služeb. 
+DPD Classic: Základní služba bez avizace. Není potřeba nic jiného doplňovat. Kurýr volá jen na telefon, který 
+je na štítku zadaný v sekci “Informace o příjemci. 
+Doporučujeme pro doručení do firem. 
+DPD Private: Rozšířená služba o avizaci příjemce a jednohodinového časového okna. S naší službou DPD 
+Private budou příjemci vědět na hodinu přesně, kdy přijedeme. Doporučujeme pro doručení na soukromou 
+adresu. 
+V aplikaci je nutné vybrat doplňkovou službu “Avizace o doručení” a zvolit avizaci emailem nebo smskou. 
+Avizace do zahraničí se řídí podmínkami dané země příjemce. Předvolba je doplněna podle země příjemce. 
+DPD Pickup: doručení na výdejní místa Pickup.  V naší síti výdejních míst Pickup naleznete už přes 2500 
+poboček. 
+V aplikaci vyberte tuto službu a níže se Vám zobrazí mapa výdejních míst. Výdejní místa můžete hledat podle 
+adresy, PSČ nebo města, popřípadně na mapě. Pro doručení do výdejního místa je povinné zadat kontaktní 
+údaje na příjemce. Pokud dané výdejní místo není na mapě, tak je v danou chvíli nedostupné. 
+Stále se nacházíme v rozšířeném zadání objednávky 
+Doplňkové služby. 
+Klikněte na ikonku. 
+15 
+DPD 10:00, 12:00, 18:00: Vaši zásilku doručíme hned druhý den po vyzvednutí u vás do 10:00*, 12:00 nebo 
+18:00. 
+Stačí vybrat v hlavních službách. Není potřeba nic jiného nastavovat. 
+Upozornění: služba DPD 10:00 je dostupná pouze pro vybrané PSČ.
+DPD EXPRESS: Expresní doručení po ČR a do zemí EU. Pro doručení mimo EU se služba nazývá DPD EXPRESS 
+NON EU. V aplikaci najdete pod hlavními službami. Služba je dostupná pouze pro vybrané PSČ. 
+V aplikaci není potřeba nic dalšího nastavovat. 
+16 
+DPD Shop2Shop / DPD Shop2Home  
+DPD Shop2Shop: Doručení z výdejního místa na jiné výdejní místo 
+DPD Shop2Home: Doručení z výdejního místa na soukromou adresu 
+Proč zvolit tuto službu 
+•
+Balíček lze podat pouze v síti výdejních míst Pickup a na naších depech
+•
+Max. 5 podaných balíků na den a výdejní místo
+•
+v současné době můžete využívat v České republice téměř 3000 výdejních míst Pickup
+•
+Možnost využití služby při posílání na Slovensko a do Polska (dobírka možná pouze v Česku)
+•
+Jednoduché objednání služby a tisk štítků v aplikaci DPD Shipping (nedostupné pro aplikaci Moje
+DPD)
+•
+Doručení na adresu příjemce 2-3 dny od podání odesílatelem
+•
+Až 3 pokusy o doručení
+•
+Průběžná notifikace příjemce
+•
+Možnost dobírky (pouze u zásilek v Česku)
+•
+Možnost využít doplňkovou službu Rozšířené krytí
+Službu objednáte v sekci “Hlavní služba” v rolovacím seznamu. Najdete je na posledním místě dole v 
+seznamu. 
+U služby Shop2Shop je nutné vybrat výdejní místo. Mapka se vám zobrazí, jakmile vyberete tuto službu. Dále 
+je potřeba zadat kontaktní údaje jako je e-mail nebo telefon. 
+U služby Shop2Home zadáváte pouze kontaktní údaje.
+Novinka 
+17 
+4.1 
+  Doplňkové služby 
+Dobírka: Je dostupná v závislosti na hlavních službách. U této služby je nutné mít zadaný bankovní účet u 
+nás v systému, jinak služba nebude dostupná. Pokud by se vám zobrazilo hlášení, že není zadaný bankovní 
+účet, tak je nutné kontaktovat obchodního zástupce DPD. 
+Detailní informace o službě Dobírka. 
+Příjemce zaplatí zásilku při jejím převzetí. Maximální dobírková částka je u hotovosti 50 000 Kč, u platby 
+kartou 200 000 Kč. 
+Platební příkaz pro převod částky na váš účet vydáváme obvykle 3. pracovní den po doručení zásilky. U 
+expresní dobírky je to následující pracovní den po doručení zásilky. 
+V aplikaci je nutné vyplnit další pole, aby služba byla v pořádku zadána. 
+•
+Rozdělení dobírkové částky: Defaultně nastaveno na hlavní balík v případě vícekusové zásilky. 
+Lze také částku rozdělit ručně nebo aplikací. Stačí vybrat z rozbalovacího seznamu.
+•
+Dobírka částka: zde zadejte částku, kterou chcete vybrat od příjemce.
+•
+Typ platby: Hotově nebo kartou. Defaultně nastaveno kartou.
+•
+Variabilní symbol: Slouží jako informace k odplacené částce. Banka akceptuje maximálně 10 číslic.
+Upozornění: pokud máte více bankovních účtů pro danou zemi, tak pod informacemi o dobírce uvidíte rolovací 
+seznam s bankovními účty. 
+Dobírku lze využít do vybraných zemí v zahraničí. 
+Ověřené předání a Ověřené předání 18+ 
+Doplňková služba k DPD Private. Doručení zásilky probíhá oproti kontrole totožnosti příjemce. Máte tak jistotu, 
+že zásilku převezme jen vámi stanovená osoba. 
+Kurýr si zapíše 5 čísel dokladu příjemce do svého přístroje MDU. Není možné předat třetí osobě ani v případě 
+zmocnění. 
+V případě nesplnění podmínek pro Ověřené předání ani při jednom pokusu o doručení kurýr zásilku vrací 
+odesílateli. 
+V aplikaci vyberte službu a zadejte jméno ověřené osoby a posledních pět číslic z dokladu. 
+Pokud službu chcete rozšířit o Ověřené předání 18 +, tak prosím kontakujte obchodního zástupce. 
+Zadání v aplikaci je pak stejné pro všechny služby. 
+18 
+Připojištění. 
+Umožňujeme vám připojistit si zásilku nad rámec standardního pojištění u zásilek nad 50 000 Kč do 
+500 000 Kč (pro vyšší hodnoty individuálně). 
+Příplatek je 0,25 % z hodnoty požadovaného Rozšířeného krytí. 
+V aplikaci je automaticky nastaveno základní pojištění do 50 000,- CZK 
+Pokud chcete zásilky připojistit, tak vyberte doplňkovou službu Připojištění. 
+Vyplňte pole částku. V případě vícekusové zásilky můžete vybrat jak bude částka rozdělena. 
+Výmědfff
+Výměnná zásilka. 
+Služba umožňuje zaslání zboží od zákazníka zpět k vám. Jedná se o službu, která je vhodná při reklamaci. 
+V aplikaci lze služba zvolit jednodušše. Stačí vybrat službu Výměnná zásilka. Aplikace Vám navíc vygeneruje 
+přepravní štítek pro zpětný balík. Ten přidáte do balíku pro zákazníka. 
+Pokud máte služby vybrané, tak tlačítkem Další můžete pokračovat na další stránku. 
+Na další stránce můžete přidat další balíčky do stejné zásilky. 
+Také k zásilce můžete přidat svoje interní údaje, které nazýváme reference. 
+19 
+Reference jsou na úrovni zásilky a balíku. Vždy jsou 4. 
+První dvě reference zásilky jsou zobrazeny na štítku. 
+Pokud vyplníte pouze jednu referenci zásilky a jednu balíku tak na štítku budou zobrazeny reference balíku 1 a 
+reference zásilky 1. 
+Údaje o balíku rozkliknete v sekci Informace o balíku. Zde klikněte na ikonku upravit na konci řádku. 
+Zobrazí se další okno. Zde můžete zadat reference na úrovni balíku, dále rozměry a hmotnost. 
+Tyto údaje jsou povinné pouze pro vybrané služby. 
+Kliknutím na tlačítko Další se zobrazí rekapitulace objednávky neboli zásilky před vytištěním přepravního 
+štítku. 
+Tato část už slouží jen jako náhled a lze ji zobrazit i po vytištění přepravních štítků. 
+V tuto chvíli lze objednávku potvrdit. Stačí kliknout na tlačítko Potvrdit. 
+Před potvrzením si můžete vybrat, co daná akce způsobí. 
+Zásilku můžete jen uložit a pak vytisknout hromadně s dalšími zásilkami. 
+Můžete zvolit, že zásilka bude uložena a rovnou vygenerován přepravní štítek nebo přidat k vygenerování 
+štítku objednávku svozu. 
+Tyto možnosti jsou vedle tlačítka Potvrdit a Předchozí v dolním rohu. 
+Ikonka upravit 
+Údaje na úrovni balíku. 
+20 
+Možnosti uložení v detailu: 
+Potvrzení pro kurýra neboli soupiska se generuje až v sekci Přehled zásilek. 
+Pokud tedy zásilku potvrdíte s jakoukoliv možností, tak budete přesměrováni na další stránku, 
+kde je sekce přehled zásilek. 
+Do této sekce se dostanete i z hlavní nabídky přes ikonku Objednávky/Přehled zásilek na hlavní 
+liště. 
+Tato část obsahuje všechny vytvořené zásilky v aplikaci bez štítků, se štítky, s objednávkou 
+svozu nebo vygenerovanou soupiskou. 
+Poslední krok objednávky. 
+Rekapitulace celé objednávky. 
+21 
+5  
+ Přehled zásilek 
+Přehled zásilek je seznam všech vytvořených objednávek v aplikaci. Zde najdete všechny zásilky, které byly 
+vytvořeny v aplikaci DPD Shipping nebo DPD Shipping API. Zásilky z jiných aplikací nebo řešeních zde 
+zobrazené nejsou. 
+V této sekci mohou být zásilky v následujících stavech:
+•
+Rozpracováno: Tato zásilka nemá ještě vytištěné štítky. V tomto stavu lze zásilku ještě upravit nebo 
+smazat.
+•
+Vytištěno: Zásilka má již vytištěn přepravní štítek. V přehledu vidíte číslo balíku. Kliknutím na číslo balíku 
+budete přesměrováni do sekce pro sledování balíku “Track and Trace”
+•
+S vyzvednutím: Zásilka má vytištěný přepravní štítek a objednaný svoz. Zásilku již nelze upravit. Je možné 
+ji smazat, dokud nebude naskenovaná kurýrem.
+•
+Zrušeno: Zásilka byla smazána v aplikaci.
+V případě, že vytisknete štítek, ale budete potřebovat změnit údaje, doporučujeme vytvořit nový štítek a ten 
+původní smazat. 
+Popis tlačítek. 
+•
+Tisk štítku: Dojde k vygenerování přepravního štítku a čísla balíku
+•
+Tisk soupisky: Seznam vytištěných zásilek. Není nutné ho generovat. Lze vygenerovat až po vytištení 
+štítků. Můžete si seznam nechat potvrdit kurýrem.
+•
+Vytvořit objednávku svozu: Objedná svoz zásilek kurýrem z dané registrované svozové adresy v aplikaci
+•
+Zrušit zásilku: Smaže objednávku/štítek. Pokud byla objednávka se svozem, tak svoz tímto krokem zrušen 
+nebude.
+Upozornění: Nezapomeňte nejdřív zásilky označit. 
+Kliknutím na jméno příjemce se zobrazí detail objednávky. 
+22 
+Přehled zásilek v aplikaci zobrazuje všechny objednávky/zásilky daného zákazníka. Na jednu 
+stránku je možné zobrazit maximálně 100 zásilek. Pokud chcete zobrazit zásilky za jiné období, tak 
+je potřeba použít filtrování. 
+Popis polí pro filtrování: 
+•
+Vyhledat zásilku: V tomto poli můžete vyhledat objednávku podle čísla zásilky nebo můžete zadat údaje z 
+adresy odesílatele nebo příjemce
+•
+Seřadit podle: Zobrazí vyhledané údaje z pole „Vyhledat zásilku“ podle největší shody z adresy příjemce 
+nebo lze zobrazit vyhledané údaje podle nejbližšího data vytvoření
+•
+Datum vytvoření: Upřesnění vyhledávání podle datumu vytvoření zásilky. Doporučujeme tento filtr vždy 
+používat pro přesnější zobrazení vyhledaných zásilek. Maximální možné rozpětí je 90 dní. Doporučujeme 
+nastavit na 30 dní.
+•
+Stav: Lze upřesnit filtrování pomocí stavu objednávek. Vyberte požadovaný stav ze seznamu.
+Štítky můžete vygenerovat ve formátu A4 pro laserové tiskárny nebo ve formátu A6 pro termotiskárny. 
+Aplikace automaticky vygneruje štítky ve formátu PDF. Není potřeba nic instalovat nebo stahovat. 
+Pokud chcete nastavit přímý tisk, toto lze v sekci Nastavení uživatele a aplikace. 
+Informace o přímém tisku na tiskárny naleznete v samostatné příručce o přímém tisku a automatickém 
+importu. 
+Přehled zásilek je možný exportovat do souboru pomocí ikonku na obrázku. Soubor bude automaticky odeslán 
+na váš e-mail, včetně potvrzení o vygenerování. 
+Filtrování 
+23 
+5.1 
+ Jednostránkové vytvoření objednávky 
+Aplikace nabízí možnost jednostránkového vytvoření nové objednávky 
+Jak již bylo vysvětleno na začátku dokumentace, tak v sekci Nastavení uživatele a aplikace je možné zvolit 
+režim vytvoření nové objednávky. Pokud chcete zadávat objednávku v jednostránkovém režimu, 
+odškrtněte možnost „Použít rozšířené zadání objednávky“. 
+Potom přejděte do sekce „Vytvořit objednávku“. 
+Princip je stejný jako u vícestránkového zadaní, pouze je celý proces objednávky zobrazen na jedné stránce. 
+Informace o odesílateli a příjemci jsou zobrazeny na levé straně pod sebou. Informace o službách jsou na 
+pravé straně. 
+Tlačítko Vytvořit novou objednávku najdete v pravém horním rohu. 
+24 
+Ta samá možnost je i pro objednávku importu ze zahraničí a sběrných služeb po České republice. 
+Zde je vše zobrazeno na stejné obrazovce. V tomto případě je objednávka omezena o počet refencí balíku a 
+zásilky. 
+Službu aktivujete posuvníkem „Odeslat z jiné adresy“.
+Pokud zadáte jako svozovou adresu v zahraničí, tak se automaticky výběr služeb změní na Import ze 
+zahraničí. 
+Pokud zadáte svozovou adresu v Česku, tak se jedná o Sběrný balík nebo Doručení 3. straně. 
+25 
+Rozdíl mezi službami je v tom, že při Doručení 3. straně se zásilka nevrací na registrovanou svozovou 
+adresu, ale na adresu, kterou zadáte nově přímo do aplikace. Pokud u adresy příjemce zvolíte možnost 
+Použít jako svozovou adresu, tak se jedná o Sběrný balík. 
+Detail objednávky sběrných služeb: 
+Sekce, kde se vyplňuje svozová adresa v tuzemsku nebo zahraničí. 
+26 
+Sekce, kde se zadává adresa pro vrácení sběrné zásilky. Pokud má být vrácena na vaši provozovnu,  
+vyberte možnost “Použít svozovou adresu”. 
+Sběrné služby můžete kombinovat s následujícími službami.   Kombinace se může měnit dle   provozu. 
+•
+DPD Classic, Dobírka, Doručení třetí straně
+•
+DPD Classic, Dobírka, Připojištění, Doručení třetí straně
+•
+DPD Classic, Doručení třetí straně
+•
+DPD Classic, Připojištění, Doručení třetí straně
+•
+DPD Classic, Připojištění, Sběrný balík
+•
+DPD Classic, Sběrný balík
+•
+DPD Private, Dobírka, Doručení třetí straně
+•
+DPD Private, Dobírka, Připojištění, Doručení třetí straně
+•
+DPD Private, Doručení třetí straně
+•
+DPD Private, Připojištění, Doručení třetí straně
+•
+DPD Private, Připojištění, Sběrný balík
+•
+DPD Private, Sběrný balík
+27 
+Příklady některých hlavních a doplňkových služeb v jednostránkovém zadání 
+DPD Private 
+DPD Pickup 
+DPD Private s 
+Dobírkou 
+28 
+6    Objednávky svozu 
+Objednávku svozu lze objednat z přehledu zásilek pokud máte již vytvořené nějaké zásilky a vytištěné štítky. 
+V případě, že chcete vytvořit objednávku svozu předem bez vytištěných štítků, tak můžete objednat svoz přes 
+ikonku Objednávky svozu na hlavní liště. 
+Klikněte na možnost Vytvořit objednávku svozu. 
+Objednávka svozu slouží pouze k objednávní svozu z vašich registrovaných svozových adres. Adresu si 
+můžete registrovat přes vašeho obchodního zástupce. 
+Upozornění: Svoz lze objednat maximálně 30 dní předem. U svozu nelze vybrat čas vyzvednutí - ten určuje 
+svozová pobočka před výjdezdem kurýra. 
+V sekci „Detaily“ zadejte datum svozu a dále vyplňte počet balíků a celkovou hmotnost. 
+Pokud údaje o zásilce pro svoz ještě nemáte, tak počet a hmotnost může být orientační. 
+Přehled všech objednávek svozu naleznete pod stejnou ikonou na hlavním panelu pod záložkou Přehled 
+objednávek svozů. 
+V této části jsou zobrazeny všechny objendávky svozu, které jsou řazeny podle data vytvoření. 
+Objednávky lze filtrovat podle data vytvoření a svozové adresy. 
+29 
+V přehledu jsou zobrazeny informace o datumu svozu/vyzvednutí, svozové adrese, kontaktní osobě, počtu 
+zásilek, hmotnosti, datu a času vytvoření. 
+Pokud kliknete na objednávku v seznamu, tak se vám zobrazí detail objednávky. 
+V přehledu objednávek je možné si vygenerovat seznam balíků/soupisku znovu. Pro vygenerování je potřeba 
+označit objednávku svozu. 
+Praktická informace: Svoz na ten samý den lze objednat pouze do 12 hodin ze svozové adresy, která se 
+nachází v blízkosti našeho depa. 
+Pravidelné svozy nelze v aplikaci nastavit a je nutné kontaktovat obchodního zástupce nebo mít aplikaci DPD 
+Easy. 
+Informace o průběhu svozu se v aplikaci nezobrazují. 
+30 
+7     Adresář 
+Sekce, kde se ukládají adresy vašich příjemců naleznete na hlavní liště v poli Adresář. 
+Zde se automaticky ukládají adresy všech vašich příjemců – pokud byla v objednávce zvolena možnost „Uložit 
+adresu příjemce“. 
+Dále můžete přidávat adresy příjemce ručně nebo pomocí souboru, který nahrajete do aplikace. 
+Pokud chcete hromadně nahrát adresář do aplikace, lze poprosit i technickou podporu, aby vám adresář 
+nahrála. 
+Kromě adres příjemců, lze zadat nebo nahrát neregistrovanou svozovou adresu pro sběrné služby. 
+V adresáři je i možnost nahrát zpáteční adresu, avšak tato služba zatím není dostupná. 
+31 
+Seznam všech adres naleznete na levé straně. Tyto adresy je možné exportovat do souboru přes ikonu 
+Export. 
+Seznam adres je možné vyhledávat podle filtru. Stačí zadat první tři znaky ze jména nebo adresy. 
+Kliknutím na ikonku filtr lze také filtrovat podle typu adresy. 
+Detail adresy se vám zobrazí kliknutím na jméno příjemce v seznamu. Detail je na pravé straně. 
+32 
+V detailu adresy vidíte typ adresy. V tomto případě lze adresu použít jako adresu příjemce nebo jako adresu 
+pro sběrné služby/vyzvednutí, případně obě varianty. Jak bylo zmíněno, zpáteční adresy nelze využívat. 
+33 
+Hromadné nahrání adresáře. 
+Pro hromadné nahrání adresáře je potřeba vytvořit importní šablonu. Importní šablonu vám vytvoři technická 
+podpora a soubor vám nahraje, případně vám vytvoří jen šablonu a vy si pak adresář nahrajete sami. 
+Váš soubor může být vytvořen v Excelu, případně .csv formátu nebo jako .txt.
+Soubor musí obsahovat stejné povinné údaje jako pro ruční zadání. 
+Povinné údaje : 
+•
+Jméno příjemce nebo název společnosti
+•
+Ulice s číslem popisným nebo může být zvlášť. Zvlášt lze zadat například číslo domu.
+•
+Město
+•
+PSČ bez mezer
+•
+Země může být v číselném formátu nebo napsaná slovy, případně mezinárodní zkratky.
+•
+Typ adresy: Receiver/collection (příjemce nebo pro sběrné služby) . Lze nastavit defaultně
+Dále je možné úvést kontaktní údaje. 
+•
+Kontaktní osobu
+•
+Telefon bez předvolby. Předvolba může být v odděleném poli.
+•
+E-mail
+Dále je možné s adresářem nahrát další vaše údaje, které souvisejí s adresou příjemce. 
+Doporučujeme zaslat nejdříve váš soubor ke kontrole na technickou podporu DPD na email: mojedpd@dpd.cz 
+K souboru prosím přiložte vaše zákaznické číslo. Pokud soubor obsahuje více informací, než jsou jen 
+informace o adrese příjemce, prosíme doplňte hlavičku k souboru s popisem polí. 
+Technická podpora soubor zkontroluje a pokud bude v pořádku, rovnou vám nastaví šablonu pro hromadné 
+nahrání adresáře. 
+V případě, že máte šablonu již nastavenou a chtěli byste si adresář nahrát sami, tak postup je následující:
+Klikněte na ikonku Import souboru na hlavní liště a dostanete se do sekce nahrání adresáře nebo zásilek. 
+34 
+Zde klikněte na nápis + importovat soubor s již nastavenou šablonou. 
+Zobrazí se vám vyskakovací okno uprostřed obrazovky. 
+Zde vyberte jako druh importu dat Adresář a název vaši šablony.  
+Potom přetáhněte soubor do šedivého pole uprostřed nebo soubor načtěte z plochy vašeho PC. 
+Klikněte na tlačítko Import. Počkejte než soubor bude nahraný. Případně můžete aktualizovat webovou 
+stránku. 
+Stav nahrávání zjistíte v poli Stav importu.  Soubor je nahraný, pokud je stav úspěšný. Pokud je stav s 
+chybou, soubor obsahuje chybné údaje. Je potřeba kliknout na detail a zjistit podle popisu, co je chybně. 
+35 
+Co se týče chyb v souboru, tak většinou se jedná o prázdná povinná pole nebo problém s PSČ. 
+Dále bývá problém s překročením maximálního počtu znaků v adrese nebo jméně příjemce. 
+Například jméno příjemce má maximální počet znaků 35. 
+PSČ a telefon musí být bez mezer. 
+Telefon je pouze číslo bez dalších znaků. 
+Více informací naleznete v návodu na import zásilek a nebo vám je poskytne technická podpora. 
+Pokud tedy soubor obsahuje chybné údaje, tak je možné je vyexportovat a následně opravit a znovu nahrát do 
+aplikace. 
+Kontrolu adresy příjemce můžete provést na Googlu nebo můžete jít do sekce vytvořit novou zásilku a zadat 
+adresu do pole Vyhledat. 
+36 
+8   Maskovací adresa 
+V této sekci si můžete vytvářet maskovací adresy. Maskovací adresa přepíše svozovou adresu na štítku. 
+Pokud tedy nechcete, aby příjemce viděl odesílatele na štítku, tak právě k tomu slouží maskovací adresa. 
+Maskovací adresa neslouží k maskování avizace o doručení zásilky vašemu zákazníkovi. 
+Vytvoření maskovací adresy je stejné jako když vytváříte novou objednávku. 
+Klikněte na pole + Přidat adresu a zadejte celou adresu fiktivního odesílatele. 
+Pole Jméno, země, ulice, město PSČ jsou povinné a musí být platné dle směrovací databáze.
+To znamená, že PSČ a město musí existovat. 
+Maskovací adresu pak vyberete při zadávání nové objednávky. Je tedy potřeba nejdříve maskovací adresu 
+vytvořit a pak ji použít při zadání nové objednávky. 
+37 
+38 
+Na koho se obrátit... 
+Obchodní zástupce DPD. 
+•
+Přidání/úprava/odebrání svozové adresy
+•
+Přidání/úprava/odebrání bankovního účtu
+•
+Změna kontaktních údajů
+•
+Informace o službách
+•
+Informace o cenách
+•
+Nastavení reportů kvality
+•
+Aktivace zákaznického portálu DPD Easy
+Zákaznické centrum (225 373 373, info@dpd.cz) 
+•
+Informace o stavu balíku
+•
+Změna informací pro doručení
+•
+Reklamace doručení
+•
+Objednání prázdných štítků
+•
+Storno svozu
+•
+Čas příjezdu kkurýra
+Technická podpora (mojedpd@dpd.cz) 
+•
+Vysvětlení aplikace
+•
+Odeslání přístupů do aplikace
+•
+Vytvoření importní šablony pro nahrání zásilek
+•
+Jednorázové nahrání adresáře
+•
+Skrytí služeb
+•
+Informace o defaultních nastaveních
+•
+Pomoc v případě neznamých chybových hlášek
+•
+Základni nastavení tiskárny
+•
+Výpadek nebo nefunkčnost aplikace
+Aplikace obsahuje interaktivní nápovědu. U jednotlivých polí nebo nadpisů je ikonka s nápovědou. Pokud na ní 
+kliknete, aplikace vám zobrazí nápovědu pro dané pole nebo sekci. 
+39 
+Stáhněte si Team Viewer. 
+Popřípadně nás můžete kontaktovat přes formulář zde. 
+Objednat štítky do tiskárny je možné i online zde. 
+Název produktu 
+Moje DPD (ukončeno) 
+DPD Shipping 
+Sběrný balík 
+NE 
+ANO 
+Doručení třetí straně 
+NE 
+ANO 
+Doručení do výdejního místa nebo 
+boxu 
+ANO 
+ANO 
+DPD Classic 
+ANO 
+ANO 
+DPD Private 
+ANO 
+ANO 
+Dobírka 
+ANO 
+ANO 
+Ověřené předání/18+ 
+ANO 
+ANO 
+Zabezpečené předání 
+ANO 
+NE 
+Doručení do oddělení 
+ANO 
+NE 
+DPDPack/DPDBOX/GUARANTEE 
+ANO 
+ANO 
+Výměnná zásilka 
+ANO 
+ANO 
+Import ze zahraničí CR 
+ANO 
+ANO 
+Maskování adres 
+ANO 
+ANO 
+Objednání svozu 
+ANO 
+ANO 
+Připojištění zásilek 
+ANO 
+ANO 
+DPD 10/12/18 
+ANO 
+ANO 
+DPD EXPRESS/NON EU 
+ANO 
+ANO 
+Výpočet ceny 
+ANO 
+NE 
+Direct Parcel Distribution CZ s. r. o. 
+Modletice 135, 251 01 Říčany u Prahy 
+Telefon +420 225 373 373 
+E-mail info@dpd.cz
+Web www.dpd.cz
+Srovnání služeb v zákaznických aplikacích. 

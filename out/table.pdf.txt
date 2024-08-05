@@ -1,0 +1,875 @@
+ 
+ 
+ 
+ 
+ 
+Parametry zásilky 
+DPD 
+Classic 
+DPD 
+Private 
+DPD 10, 
+12, 18 
+Pickup 
+DPD 
+Dnes 
+DPD 
+Shop2Shop 
+DPD 
+Shop2Home 
+DPD Pneu6 
+výdejní/podací 
+místo 
+box 
+Maximální hmotnost (kg) 1 
+31,5 
+31,5 
+31,5 
+20 
+20 
+31,5 
+20 
+20 
+31,5 
+Maximální rozměry balíku (cm) 
+x 
+x 
+x 
+x 
+67 x 41 x 56 
+x 
+dle parametrů Pickup 
+x 
+Maximální délka (nejdelší strana) (cm) 2 
+175 
+175 
+175 
+100 
+67 
+175 
+dle parametrů Pickup 
+x 
+Maximální obvodová délka (cm) 
+300 
+300 
+300 
+250 
+250 
+300 
+250 
+250 
+x 
+Maximální výše dobírky – karta (Kč) 
+200 000 
+200 000 
+200 000 
+50 000 3 
+50 000 4 
+200 000 
+dle parametrů 
+Pickup 
+200 000 
+200 000 
+Maximální výše dobírky – hotovost (Kč) 3 
+50 000 
+50 000 
+50 000 
+50 000 
+x 
+50 000 
+dle parametrů 
+Pickup 
+50 000 
+50 000 
+Úložní doba (hodiny), z provozních důvodů může být úložní doba zkrácena 
+x 
+x 
+x 
+168 
+48 
+x 
+dle parametrů 
+Pickup 
+x 
+x 
+Doba poukázání vybrané doběrečné částky na účet označený Příkazcem (počet dní) 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+6 
+Vícekusá zásilka 
+✓ 
+✓ 
+✓ 
+x 
+x 
+✓ 
+x 
+x 
+✓ 
+Oznámení o převzetí Zásilky do přepravy, včetně přístupu do webové aplikace pro úpravu 
+doručení (e-mailová zpráva) 
+✓ 
+✓ 
+✓ 
+✓ 5 
+✓ 5 
+x 
+✓ 5 
+✓ 
+✓7 
+Oznámení v den doručení Zásilky včetně 1hodinového časového okna doručení a přístupu do 
+webové aplikace pro úpravu doručení (SMS zpráva) 
+x 
+✓ 
+✓ 
+x 
+x 
+✓ 
+x 
+✓ 
+✓ 
+Oznámení v den doručení Zásilky včetně 1hodinového časového okna doručení a přístupu do 
+webové aplikace pro úpravu doručení (e-mailová zpráva) 
+x 
+✓ 
+✓ 
+x 
+x 
+x 
+x 
+✓ 
+✓ 
+Oznámení o neúspěšném pokusu o doručení Zásilky (e-mailová zpráva) 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+Oznámení o případné změně data doručení Zásilky. 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+Oznámení o uložení Zásilky do výdejního místa/boxu – obsahuje PIN nebo heslo (e-mailová 
+zpráva) 
+x 
+x 
+x 
+✓ 
+✓ 
+x 
+✓ 
+x 
+x 
+Oznámení o uložení Zásilky do výdejního místa/boxu – obsahuje PIN nebo heslo (SMS 
+zpráva) 
+x 
+x 
+x 
+✓ 
+✓ 
+x 
+✓ 
+x 
+x 
+ 
+Připomenutí o uložení Zásilky ve výdejním místě Pickup 3 dny po doručení (e-mail zpráva) 
+x 
+x 
+x 
+✓ 
+✓  
+(po 24 hod.) 
+x 
+✓ (v případě 
+boxu po 24 hod.) 
+x 
+x 
+Oznámení v den uložení Zásilky do DPD boxu s vyzváním k uhrazení online dobírky  
+(e – mailová zpráva) 
+x 
+x 
+x 
+x 
+✓ 
+x 
+✓ 
+x 
+x 
+Oznámení v den uložení Zásilky do DPD boxu s vyzváním k uhrazení online dobírky (SMS 
+zpráva) 
+x 
+x 
+x 
+x 
+✓ 
+x 
+✓ 
+x 
+x 
+Oznámení odesílateli o vyzvednutí zásilky / nevyzvednutí zásilky příjemcem, vrácení 
+nevyzvednuté / odmítnuté zásilky 
+x 
+x 
+x 
+x 
+x 
+x 
+✓ 
+x 
+x 
+ 
+• 
+Služba DPD 10:00 a 12:00 je možná pouze v oblastech definovaných na webových stránkách Zasílatele. Služba DPD Dnes je dostupná pouze v Praze. 
+ 
+ 
+• 
+Zasílatel se zavazuje provést oznámení prostřednictvím SMS a/nebo e-mailové zprávy pouze v případě, že mu Příkazce poskytne potřebné informace, zejména telefonní číslo a/nebo e-mailovou adresu, na které má 
+být oznámení zasláno. V případě, že Příkazce neposkytne Zasílateli potřebné a správné informace, není Zasílatel povinen poskytnout službu, pro kterou jsou tyto informace potřebné. Tím není dotčen nárok Zasílatele 
+na úhradu příslušné služby dle příslušného ceníku. 
+• 
+Vzorec pro výpočet obvodové délky: 2x šířka + 2x výška + 1x délka 
+1  Za přepravu zásilek, jejichž hmotnost překračuje výše uvedené parametry, je Zasílatel oprávněn účtovat příplatek podle platného Ceníku příplatků. Zásilky těžší než 50 kg nejsou přijímány k přepravě. 
+2  Za přepravu zásilek, jejichž nejdelší strana překračuje výše uvedené parametry, je Zasílatel oprávněn účtovat příplatek podle platného Ceníku příplatků. Zásilky s nejdelší stranou větší než 200 cm nejsou přijímány 
+k přepravě. 
+3  Na některých výdejních místech není platba kartou umožněna. 
+4  Při doručení zásilky do Boxu je platba dobírky možná pouze online. 
+5  Pro službu Pickup a DPD Shop2Shop není k dispozici přístup do webové aplikace pro úpravu doručení 
+6     Je nutné dodržet správné balení zásilky. Informace naleznete v dokumentu „Jak správně zabalit zásilku“ na www.dpd.cz. 
+7  Nelze přesměrovat do výdejního místa/výdejního boxu. 
+ 
+ 
+ 
+ 
+Mezinárodní přeprava silniční 
+Mezinárodní přeprava letecká 
+Parametry zásilky 
+DPD Classic 
+DPD Private 
+Pickup 
+DPD 
+Guarantee 
+DPD 
+Shop2Shop 
+DPD 
+Shop2Home 
+DPD 
+Pneu5 
+DPD Express 
+EU 
+DPD Express 
+non EU 
+Maximální hmotnost (kg) 1 
+31,5 
+31,5 
+20 
+31.5 
+20 
+20 
+31,5 
+31,5 
+31,5 
+Maximální délka (nejdelší strana) (cm) 2 
+175 
+175 
+100 
+175 
+100 
+100 
+x 
+175 
+100 
+Maximální obvodová délka (cm) 
+300 
+300 
+250 
+300 
+250 
+250 
+x 
+300 
+360 4 
+Maximální výše dobírky (€) 
+2 500 3 
+2 500 3 
+x 
+2 500 3 
+x 
+2 500 3 
+2 500 3 
+x 
+x 
+Vícekusá zásilka 
+✓ 
+✓ 
+x 
+✓ 
+x 
+x 
+✓ 
+x 
+x 
+Oznámení o převzetí Zásilky do přepravy, obvykle 1 pracovní den před 
+doručením včetně přístupu do webové aplikace pro úpravu doručení (SMS 
+zpráva) 
+Dle aktuální 
+dostupnosti 
+v zemi 
+doručení 
+Dle aktuální 
+dostupnosti 
+v zemi 
+doručení 
+Dle aktuální 
+dostupnosti 
+v zemi 
+doručení 
+Dle aktuální 
+dostupnosti 
+v zemi 
+doručení 
+Dle aktuální 
+dostupnosti 
+v zemi 
+doručení 
+Dle aktuální 
+dostupnosti 
+v zemi 
+doručení 
+Dle 
+aktuální 
+dostupnosti 
+v zemi 
+doručení 
+x 
+x 
+Oznámení o převzetí Zásilky do přepravy, obvykle 1 pracovní den před 
+doručením včetně přístupu do webové aplikace pro úpravu doručení (e-
+mailová zpráva) 
+x 
+x 
+Oznámení v den doručení Zásilky včetně 1hodinového časového okna 
+doručení a přístupu do webové aplikace pro úpravu doručení (SMS zpráva) 
+x 
+x 
+Oznámení v den doručení Zásilky včetně 1hodinového časového okna 
+doručení a přístupu do webové aplikace pro úpravu doručení (e-mailová 
+zpráva) 
+x 
+X 
+Oznámení o neúspěšném pokusu o doručení Zásilky (e-mailová zpráva) 
+x 
+X 
+Oznámení o případné změně data doručení Zásilky. 
+x 
+x 
+Připomenutí o uložení Zásilky ve výdejním místě Pickup 3 dny po doručení  
+(e – mail zpráva) 
+x 
+x 
+Dle aktuální 
+dostupnosti 
+v zemi 
+doručení 
+x 
+Dle aktuální 
+dostupnosti 
+v zemi 
+doručení 
+Dle aktuální 
+dostupnosti 
+v zemi 
+doručení 
+x 
+x 
+x 
+ 
+• 
+Zasílatel se zavazuje provést oznámení prostřednictvím SMS a/nebo e-mailové zprávy pouze v případě, že mu Příkazce poskytne potřebné informace, zejména telefonní číslo a/nebo e-mailovou adresu, na které má 
+být oznámení zasláno. V případě, že Příkazce neposkytne Zasílateli potřebné a správné informace, není Zasílatel povinen poskytnout službu, pro kterou jsou tyto informace potřebné. Tím není dotčen nárok Zasílatele 
+na úhradu příslušné služby dle příslušného ceníku. 
+• 
+Vzorec pro výpočet obvodové délky: 2x šířka + 2x výška + 1x délka. Vzorec pro výpočet obvodové délky u tyčoviny: obvod + délka. Parametr pro přepočet volumetrické hmotnosti: délka (cm) x šířka (cm) x výška (cm) / 
+5000 (cm3/kg) 
+1 
+Za přepravu zásilek, jejichž hmotnost překračuje výše uvedené parametry, je Zasílatel oprávněn účtovat příplatek podle platného Ceníku příplatků. Zásilky těžší než 50 kg nejsou přijímány k přepravě. 
+2 
+Za přepravu zásilek, jejichž nejdelší strana překračuje výše uvedené parametry, je Zasílatel oprávněn účtovat příplatek podle platného Ceníku příplatků. Zásilky s nejdelší stranou větší než 200 cm nejsou přijímány 
+k přepravě. 
+3 
+U zásilek do Maďarska činí maximální výše dobírky 300,000 HUF, do Rumunska činí maximální výše dobírky 9999,99 RON. 
+4 
+Maximální rozměr zásilek DPD Express Non EU je 100 cm x 70 cm x 60 cm (délka x šířka x výška) 
+5     Je nutné dodržet správné balení zásilky. Informace naleznete v dokumentu „Jak správně zabalit zásilku“ na www.dpd.cz. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vnitrostátní přeprava 
+ 
+Doplňková služba 
+DPD 
+Classic 
+DPD 
+Private 
+DPD 10, 12, 18 
+Pickup 
+DPD 
+Shop2Shop 
+DPD 
+Shop2Home 
+DPD Dnes 
+DPD Pneu 
+Výdejní místo 
+Výdejní box 
+Dobírka (popis a pravidla níže) 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+Doručení do oddělení (doručení Zásilky Příjemci do konkrétního 
+oddělení či patra) 
+x 
+x 
+✓ 
+x 
+x 
+x 
+x 
+x 
+x 
+Doručení třetí straně (vyzvednutí na adrese mimo domluvené místo 
+vyzvedávání Zásilek, tj. mimo registrovanou (svozovou) adresu s 
+doručením rovněž mimo registrovanou (svozovou) adresu Příkazce) 
+✓ 
+✓ 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+Ověřené předání (předání Zásilky pouze Příjemci určeným Příkazcem 
+oproti přepisu posledních 5 číslic a/nebo znaků dokladu totožnosti 
+Příjemce (občanský a řidičský průkaz, Cestovní pas)) 
+x 
+✓ 
+✓ 
+x 
+x 
+x 
+x 
+x 
+x 
+Ověřené předání 18+ (předání Zásilky pouze plnoletému Příjemci 
+určeným Příkazcem oproti přepisu posledních 5 číslic a/nebo znaků 
+dokladu totožnosti Příjemce (občanský a řidičský průkaz, Cestovní pas)) 
+x 
+✓ 
+✓ 
+x 
+x 
+x 
+x 
+x 
+x 
+Rozšířené krytí (navýšení limitu odpovědnosti Zasílatele nad hodnotu 50 
+000 Kč). Pojištění do 50 000 Kč je zahrnuto v ceně přepravy. 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+Sběrný balík (Vyzvednutí Zásilky na libovolné adrese mimo domluvené 
+místo vyzvedávání Zásilek, tj. mimo registrovanou (svozovou) adresu 
+Příkazce a doručení na registrovanou (svozovou) adresu Příkazce. 
+✓ 
+✓ 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+Výměnná zásilka (jedná se o službu přepravy Zásilky k Příjemci, která 
+současně umožňuje bezplatné zaslání zpět k Příkazci. Například zajištění 
+okamžité výměny zboží. Cesta zpět je v režimu DPD CLASSIC) 
+✓ 
+✓ 
+✓ 
+x 
+x 
+x 
+x 
+✓ 
+x 
+Zpětný balík (vrácení již doručené Zásilky Příjemcem zpět k Příkazci. 
+Přepravné je hrazeno Příkazcem.) 
+x 
+✓ 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+ 
+ 
+ 
+Mezinárodní přeprava silniční 
+Mezinárodní přeprava letecká 
+Doplňková služba 
+DPD Classic DPD Private 
+Pickup 
+DPD 
+Shop2Shop 
+DPD 
+Shop2Home 
+DPD 
+Guarantee 
+DPD Pneu 
+DPD Express EU 
+DPD Express  
+non EU 
+Dobírka (popis a pravidla níže) 
+✓ 
+✓ 
+x 
+x 
+✓ 
+✓ 
+✓ 
+x 
+x 
+Import (Vyzvednutí Zásilky ve vybraných evropských destinacích (viz. 
+Ceník pro mezinárodní silniční přepravu) a doručení na registrovanou 
+(svozovou) adresu Příkazce.) 
+✓ 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+Rozšířené krytí (navýšení limitu odpovědnosti Zasílatele nad hodnotu 
+50 000 Kč). Pojištění do 50 000 Kč je zahrnuto v ceně přepravy. 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+✓ 
+Zpětný balík (vrácení již doručené Zásilky Příjemcem zpět k Příkazci. 
+Přepravné je hrazeno Příkazcem.) 
+x 
+✓ 
+x 
+x 
+x 
+x 
+x 
+x 
+x 
+ 
+ 
+• 
+Doplňkové služby nejsou základní součástí hlavních služeb a jejich poskytnutí je zpoplatněno dle aktuálního ceníku. 
+• 
+Zasílatel si vyhrazuje právo neprovádět po nezbytně nutnou dobu výše uvedené služby 
+• 
+Zasílatel se zavazuje provést oznámení prostřednictvím SMS a/nebo e-mailové zprávy pouze v případě, že mu Příkazce poskytne potřebné informace, zejména telefonní číslo a/nebo e-mailovou adresu, na které má 
+být oznámení zasláno. V případě, že Příkazce neposkytne Zasílateli potřebné a správné informace, není Zasílatel povinen poskytnout službu, pro kterou jsou tyto informace potřebné. Tím není dotčen nárok Zasílatele 
+na úhradu příslušné služby dle příslušného ceníku. 
+ 
+ 
+4.1 
+Vnitrostátní Zásilky na dobírku 
+a. 
+V případě, že chce Příkazce využít zaslání Zásilky na dobírku, je povinen vždy vyplnit dokument 
+„Formulář pro nastavení Dobírky“ dostupný na webových stránkách, ve kterém, mimo jiné, 
+uvede číslo bankovního účtu, na který má být poukázána doběrečná částka (dále jen „Výchozí 
+účet“). 
+b. 
+Na přepravním štítku je Příkazce povinen vyznačit částku v Kč zaokrouhlenou na celá čísla, 
+která má být při doručení vybrána od Příjemce. V případě, že uvedená částka nebude 
+zaokrouhlena na celá čísla, je Zasílatel oprávněn provést zokrouhlení sám. 
+c. 
+Nejpozději do okamžiku, kdy je Zásilka předána k přepravě Zasílateli nebo bezprostředně po 
+takovém převzetí Zásilky Zasílatelem je Příkazce povinen předat Zasílateli tzv. dobírková data, 
+která obsahují následující údaje: 
+• 
+identifikační údaje Příkazce, 
+• 
+identifikační údaje Příjemce, 
+• 
+výši doběrečné částky (podmínka uvedená v bodě 4.1.b. se použije obdobně), 
+• 
+identifikaci dobírkového účtu (dále jen „dobírkový účet“), 
+a která mohou být Zasílateli předána následujícími způsoby: 
+• 
+Zadání dobírkových dat pomocí on-line aplikace Zasílatele, 
+• 
+Zaslání dobírkových dat elektronicky pomocí datové věty specifikované Zasílatelem. 
+Pokud se dobírkový účet liší od Výchozího účtu, pak Zasílatel poukáže příslušnou vybranou 
+doběrečnou částku na dobírkový účet. Pokud Příkazce v dobírkových datech neuvede 
+identifikaci dobírkového účtu, pak Zasílatel poukáže příslušnou vybranou doběrečnou částku na 
+Výchozí účet. Po odeslání dobírkových dat již nelze dodatečně měnit výši doběrečné částky. 
+d. V případě, že se doběrečná částka uvedená na přepravním štítku Zásilky liší od doběrečné částky v 
+dobírkových datech, je Zásilka vrácena Příkazci 
+e. V případě, že Příkazce nedodá ve výše stanoveném termínu dobírková data, nebude Zásilka Zasílatelem 
+doručena a bude uložena ve skladu Zasílatele. Zásilka bude doručena nejdříve až v pracovní den 
+následující po pracovním dnu, ve kterém byla zaslána dobírková data. V případě, že Příkazce nedodá ve 
+výše stanoveném termínu dobírková data, ale Zásilka bude přes to doručena, u Příjemce bude inkasována 
+hodnota uvedená na přepravním štítku. Doběrečná částka bude Příkazci odeslána až po dodání 
+dobírkových dat, nebo patnáctý kalendářní den od doručení zásilky na Výchozí účet. V případě že Příkazce 
+uvede v následně zaslaných dobírkových datech jinou částku, než byla uvedena na přepravním štítku, 
+nese zodpovědnost za takto vzniklý rozdíl Příkazce. 
+f. 
+Pokud Příkazce dodá chybná dobírková data, zejména pokud je na straně Zasílatele nutné zpracovávat 
+dobírková data Příkazce manuálně (např. v případě neplatného kódu banky), je Zasílatel oprávněn účtovat 
+Příkazci administrativní přípatek dle Ceníku příplatků za každou Zásilku, ke které musela být dobírková 
+data zpracována manuálně. Zasílatel zároveň neodpovídá za škody způsobené Příkazci chybným 
+zadáním dobírkových dat či jinou chybou vzniklou porušením bodu 4 tohoto dokumentu na straně 
+Příkazce. 
+g. U Zásilek na dobírku zajistí Zasílatel provedení inkasa částky uvedené na přepravním štítku od Příjemce 
+a převod této částky na Příkazcem určený účet ve lhůtě uvedené u příslušného Produktu/služby. Pro 
+splnění této lhůty je rozhodný den odepsání částky z účtu Zasílatele ve prospěch účtu určeného 
+Příkazcem. 
+Úhrada dobírkové částky může proběhnout v hotovosti nebo prostřednictvím platební karty akceptované 
+Zasílatelem. V případě úhrady dobírkové částky platební kartou je Zasílatel 
+ 
+ 
+oprávněn účtovat Příkazci příplatek dle platného ceníku Zasílatelských služeb, a to i v případě, 
+že si Příkazce tuto službu výslovně neobjednal. V případě doručení Zásilky do Boxu probíhá 
+úhrada doběrečné částky Příjemcem platební kartou, a to prostřednictvím odkazu na online 
+platební bránu, který je Příjemci doručen formou e-mailu/SMS. Platbu doběrečné částky je nutné 
+provést před vyzvednutím Zásilky z Boxu. Za takto provedenou platbu je Zasílatel oprávněn 
+účtovat Příkazci příplatek dle platného ceníku Zasílatelských služeb. 
+h. U vnitrostátních zásilek na dobírku musí být bankovní účet, na který má být poukázána vybraná 
+doběrečná částka, veden subjektem s bankovní licencí se sídlem v České republice. 
+i. 
+Příkazce si může za poplatek dle platného ceníku zvolit expresní odplácení dobírek. V takovém 
+případě Zasílatel odplatí všechny dobírky Příkazci následující pracovní den po doručení Zásilky. 
+V případě nedoručení či nepřevzetí Zásilky zasílané na dobírku se uplatní ustanovení 
+Všeobecných obchodních podmínek pro vnitrostátní přepravu. 
+j. 
+V případě neúspěšného doručení Zásilky na dobírku po Příjemcem provedeném posunutí 
+termínu doručení v souladu s těmito podmínkami, nevzniká Příkazci nárok na případnou 
+kompenzaci ušlého zisku a/nebo náhradu škody. 
+V případě, že Příkazce změní Výchozí účet pro odplácení dobírek, je povinen takovou změnu 
+dobírkového účtu provést prostřednictvím formuláře „Formulář pro nastavení Dobírky“ 
+dostupného na webových stránkách. 
+ 
+4.2 
+Mezinárodní Zásilky na dobírku 
+a. Zasílatel umožňuje zaslání Zásilky na dobírku do následujících zahraničních destinací: 
+Slovensko, Polsko, Maďarsko, Slovinsko, Chorvatsko, Bulharsko a Rumunsko; 
+b. Pro zaslání Zásilky do výše uvedených destinací na dobírku je Příkazce povinen řídit se 
+ustanoveními bodu 4.1 této části těchto Podmínek, 
+c. V případě, že na přepravním štítku nebo v dobírkových datech bude uvedena částka v jiné 
+měně, než je oficiální měna cílové destinace, bude Zásilka vrácena zpět Příkazci. 
+d. Pro jednotlivé destinace platí následující pravidla: 
+ 
+Slovensko 
+• 
+Bankovní účet, na který má být poukázána vybraná částka, musí být veden subjektem s 
+bankovní licencí se sídlem v zemi Evropské unie. 
+• 
+Částka uvedená na štítku a v dobírkových datech musí být uvedena v EUR. 
+• 
+Vybrané doběrečné částky inkasované na Slovensku jsou poukázány na účet Příkazce v EUR. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v EUR, musí účet měnu EUR akceptovat. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v EUR, bude pro přepočet měny z EUR na 
+měnu účtu použit kurz banky Příkazce platný v den, kdy mu platba přišla na účet. 
+• 
+Doba připsání platby na účet Příkazce je do 10 pracovních dnů od doručení Zásilky. 
+• 
+Doběrečné částky budou vždy odpláceny na Výchozí dobírkový účet. 
+• 
+Dobírky inkasované na Slovensku jsou hrazeny z účtu SK4002000000002744774956. 
+Polsko 
+• 
+Bankovní účet, na který má být poukázána vybraná částka, musí být veden subjektem s bankovní 
+licencí se sídlem v Polsku, pokud má být vybraná částka poukázána Příkazci v PLN. 
+• 
+Bankovní účet, na který má být poukázána vybraná částka, musí být veden subjektem s bankovní 
+licencí se sídlem v České republice, pokud má být vybraná částka poukázána Příkazci v Kč. Pro přepočet 
+PLN na Kč se používá aktuální kurz stanovený ČNB pro daný měsíc (kurz k 1. pracovnímu dni daného 
+měsíce), ve kterém se platba odplácí na korunový účet Příkazce. 
+• 
+Částka uvedená na štítku a v dobírkových datech musí být uvedena v PLN. 
+• 
+Doba připsání platby na účet Příkazce je do 12 pracovních dnů od doručení Zásilky. 
+• 
+Doběrečné částky budou vždy odpláceny na Výchozí dobírkový účet. 
+• 
+Vícekusové zásilky nelze zasílat na dobírku. V případě, že Příkazce zašle vícekusovou zásilku na dobírku, 
+nenese Zasílatel odpovědnost za případnou škodu vzniklou nevybráním dobírkové částky. 
+• 
+Dobírky inkasované v Polsku jsou hrazeny z účtu PL56105000861000002347774198. 
+ 
+Maďarsko 
+• 
+Bankovní účet, na který má být poukázána vybraná částka, musí být veden subjektem s bankovní 
+licencí se sídlem v Maďarsku nebo v České republice. Pokud bude účet vedený u jiné banky než s licencí 
+v Maďarsku, může být fakturován poplatek za zahraniční převod. 
+• 
+Částka uvedená na štítku a v dobírkových datech musí být uvedena v HUF. 
+• 
+Vybrané doběrečné částky inkasované v Maďarsku jsou poukázány na účet Příkazce v HUF. 
+• 
+Pokud je účet Příkazce vedený v Kč, musí účet měnu HUF akceptovat. 
+• 
+Pokud je účet Příkazce vedený v Kč, bude pro přepočet měny z HUF na měnu Kč použit kurz banky 
+Příkazce platný v den, kdy mu platba přišla na účet. 
+• 
+Doba připsání platby na účet Příkazce je do 10 pracovních dnů od doručení Zásilky. 
+• 
+Doběrečné částky budou vždy odpláceny na Výchozí dobírkový účet. 
+• 
+Dobírky inkasované v Maďarsku jsou hrazeny z účtu HU61109180010000000562510049. 
+ 
+Slovinsko 
+• 
+Bankovní účet, na který má být poukázána vybraná částka, musí být veden subjektem s bankovní 
+licencí se sídlem v zemi Evropské unie 
+• 
+Částka uvedená na štítku a v dobírkových datech musí být uvedena v EUR. 
+• 
+Vybrané doběrečné částky inkasované ve Slovinsku jsou poukázány na účet Příkazce v EUR. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v EUR, musí účet měnu EUR akceptovat. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v EUR, bude pro přepočet měny z EUR na měnu účtu 
+použit kurz banky Příkazce platný v den, kdy mu platba přišla na účet. 
+• 
+Doba připsání platby na účet Příkazce je do 8 pracovních dnů od doručení Zásilky. 
+• 
+Doběrečné částky budou vždy odpláceny na Výchozí dobírkový účet. 
+• 
+Vícekusové zásilky nelze zasílat na dobírku. V případě, že Příkazce zašle vícekusovou zásilku na dobírku, 
+nenese Zasílatel odpovědnost za případnou škodu vzniklou nevybráním dobírkové 
+částky. 
+• 
+Dobírky inkasované ve Slovinsku jsou hrazeny z účtu SI56290000155223428. 
+ 
+ 
+ 
+ 
+ 
+ 
+Chorvatsko 
+• 
+Bankovní účet, na který má být poukázána vybraná částka, musí být veden subjektem 
+s bankovní licencí se sídlem v zemi Evropské unie. 
+• 
+Částka uvedená na štítku a v dobírkových datech musí být uvedena v EUR. 
+• 
+Vybrané doběrečné částky inkasované v Chorvatsku jsou poukázány na účet Příkazce v EUR. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v EUR, musí účet měnu EUR akceptovat. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v EUR, bude pro přepočet měny z EUR na 
+měnu účtu použit kurz banky Příkazce platný v den, kdy mu platba přišla na účet. 
+• 
+Doba připsání platby na účet Příkazce je do 5 pracovních dnů od doručení Zásilky. 
+• 
+Doběrečné částky budou vždy odpláceny na Výchozí dobírkový účet. 
+• 
+Vícekusové zásilky nelze zasílat na dobírku. V případě, že Příkazce zašle vícekusovou zásilku 
+na dobírku, nenese Zasílatel odpovědnost za případnou škodu vzniklou nevybráním dobírkové 
+částky. 
+• 
+Dobírky inkasované v Chorvatsku jsou hrazeny z účtu HR1523600001501244268. 
+ 
+Bulharsko 
+• 
+Bankovní účet, na který má být poukázána vybraná částka, musí být veden subjektem s 
+bankovní licencí se sídlem v zemi Evropské unie. Pokud bude účet vedený u jiné banky než s 
+licencí v Bulharsku, může být fakturován poplatek za zahraniční převod. 
+• 
+Částka uvedená na štítku a v dobírkových datech musí být uvedena v BGN. 
+• 
+Vybrané doběrečné částky inkasované v Bulharsku jsou poukázány na účet Příkazce v BGN. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v BGN, musí účet měnu BGN akceptovat. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v BGN, bude pro přepočet měny z BGN na 
+měnu účtu použit kurz banky Příkazce platný v den, kdy mu platba přišla na účet. 
+• 
+Doba připsání platby na účet Příkazce je do 8 pracovních dnů od doručení zásilky. 
+• 
+Doběrečné částky budou vždy odpláceny na Výchozí dobírkový účet. 
+• 
+Vícekusové zásilky nelze zasílat na dobírku. V případě, že Příkazce zašle vícekusovou zásilku na dobírku, 
+nenese Zasílatel odpovědnost za případnou škodu vzniklou nevybráním dobírkové částky. 
+• 
+Dobírky inkasované v Bulharsku jsou hrazeny z účtu BG23UNCR70001522633197 
+ 
+ 
+Rumunsko 
+• 
+Bankovní účet, na který má být poukázána vybraná částka, musí být veden subjektem s bankovní licencí 
+se sídlem v zemi Evropské unie. Pokud bude účet vedený u jiné banky než s licencí v Rumunsku, může 
+být fakturován poplatek za zahraniční převod. 
+• 
+Částka uvedená na štítku a v dobírkových datech musí být uvedena v RON. 
+• 
+Vybrané doběrečné částky inkasované v Rumunsku jsou poukázány na účet Příkazce v RON. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v RON, musí účet měnu RON akceptovat. 
+• 
+Pokud je účet Příkazce vedený v jiné měně než v RON, bude pro přepočet měny z RON na 
+měnu účtu použit kurz banky Příkazce platný v den, kdy mu platba přišla na účet. 
+• 
+Doba připsání platby na účet Příkazce je do 8 pracovních dnů od doručení zásilky. 
+• 
+Doběrečné částky budou vždy odpláceny na Výchozí dobírkový účet. 
+• 
+Vícekusové zásilky nelze zasílat na dobírku. V případě, že Příkazce zašle vícekusovou zásilku na dobírku, 
+nenese Zasílatel odpovědnost za případnou škodu vzniklou nevybráním dobírkové částky. 
+• 
+Je-li příjemcem právnická osoba, maximální výše dobírky je 1000 RON v případě platby dobírky 
+v hotovosti nebo 5000 RON v případě platby dobírky kartou. 
+• 
+Je-li příjemcem fyzická osoba, maximální výše dobírky je 5000 RON v případě platby dobírky 
+v hotovosti nebo 9999,99 RON v případě platby dobírky kartou. 
+• 
+Dobírky inkasované v Rumunsku jsou hrazeny z účtu RO14RZBR0000060008408392. 
