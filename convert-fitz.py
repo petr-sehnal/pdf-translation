@@ -93,7 +93,8 @@ def extract_text(pdf_path):
         page = document.load_page(page_num)
         text = page.get_text()        
         pages.append(text)
-        xhtml = page.get_text("html")
+        #xhtml = page.get_text("html")
+        xhtml = page.get_text("text")
         xhtml_no_img = re.sub(img_tag_pattern, '', xhtml)
         # get rid of img tag
         #xhtml = xhtml.replace("<img src=\"data:image/png;base64,", "")
@@ -109,9 +110,11 @@ def extract_text(pdf_path):
 #pdf_path = "path_to_your_pdf.pdf"
 #pdf_path = "data/single.pdf"
 #output_pdf_path = "out/pictures.pdf"
-pdf_path = "data/pictures.pdf"
+pdf_path = "data/columns.pdf"
 
-draw_bounding_boxes(pdf_path, extract_text_with_bounding_boxes(pdf_path), "out/pictures.boundingbox.pdf")
+extract_text(pdf_path)
+
+#draw_bounding_boxes(pdf_path, extract_text_with_bounding_boxes(pdf_path), "out/pictures.boundingbox.pdf")
 
 exit(0)
 
